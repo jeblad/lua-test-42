@@ -1,5 +1,5 @@
---- Define a car.
---- @class MyOrg.Car
+--- Define a main car, whatever that is.
+--- @class Main
 local cls = class()
 
 --- @param foo number
