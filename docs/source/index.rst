@@ -13,6 +13,8 @@ Welcome to Test LvL 42's documentation!
    markdown.md
    topics/test-wiki.md
 
+.. lua:autoclass:: MyOrg.Car
+
 
 Indices and tables
 ==================
