@@ -16,8 +16,8 @@ submodules:
   recursive: true
 
 # Downloadable formats
-formats:
-  - epub
+formats: []
+#  - epub
 #  - pdf
 #  - htmlzip
 
