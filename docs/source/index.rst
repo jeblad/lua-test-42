@@ -12,7 +12,7 @@ Welcome to Test LvL 42's documentation!
 
    getting_started.rst
    markdown.md
-   ../README.md
+   topics/test-wiki.md
 
 
 Indices and tables
