@@ -10,16 +10,16 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test LvL 42'
-copyright = '2020, John Erling Blad'
-author = 'John Erling Blad'
+project = u'Test LvL 42'
+copyright = u'2020, John Erling Blad'
+author = u'John Erling Blad'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
@@ -39,7 +39,7 @@ extensions = [
 ]
 
 # a list of lua source root
-lua_source_path = ["../includes"]  # default is "./"
+lua_source_path = ["../includes/"]  # default is "./"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
