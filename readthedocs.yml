@@ -10,5 +10,6 @@ sphinx:
   configuration: docs/conf.py
 
 # Include submodules
+submodules:
   include: all
   recursive: true
