@@ -33,9 +33,13 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-	'recommonmark'
-#	'sphinx_lua'
+	'recommonmark',
+	'sphinxcontrib.luadomain',
+	'sphinx_lua'
 ]
+
+# a list of lua source root
+lua_source_path = ["../includes"]  # default is "./"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
