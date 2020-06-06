@@ -13,3 +13,7 @@ sphinx:
 submodules:
   include: all
   recursive: true
+
+  formats:
+  - epub
+  - pdf
