@@ -33,6 +33,7 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+	'recommonmark'
 #	'sphinx_lua'
 ]
 
@@ -52,7 +53,18 @@ exclude_patterns = []
 #
 #html_theme = 'alabaster'
 #html_theme = 'classic'
-html_theme = 'default'
+#html_theme = 'default'
+
+# on_rtd is whether we are on readthedocs.org
+import os
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+
+if not on_rtd:  # only import and set the theme if we're building docs locally
+    import sphinx_rtd_theme
+    html_theme = 'sphinx_rtd_theme'
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+# otherwise, readthedocs.org uses their theme by default, so no need to specify it
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

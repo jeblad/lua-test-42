@@ -11,6 +11,8 @@ Welcome to Test LvL 42's documentation!
    :caption: Contents:
 
    getting_started.rst
+   markdown.md
+   ../README.md
 
 
 Indices and tables
