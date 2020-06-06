@@ -1,7 +1,7 @@
 # lua-test-42
 
 [![Stability Experimental](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)](https://www.mediawiki.org/wiki/Template:Extension#status)
-[![Documentation Status](https://readthedocs.org/projects/docs/badge/?style=for-the-badge&version=latest)](https://docs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/test-lvl-42/badge/?style=for-the-badge&version=latest)](https://test-lvl-42.readthedocs.io/en/latest/?badge=latest)
 
 1. Clone repository
 
