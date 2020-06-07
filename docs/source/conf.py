@@ -39,7 +39,9 @@ extensions = [
 ]
 
 # a list of lua source root
-lua_source_path = ["./", "./includes/", "../includes/", "../../includes/"]  # default is "./"
+# the local make is run from docs dir where Makefile resides,
+# while the remote build is run from the source dir where conf.py resides
+lua_source_path = ["../includes/", "../../includes/"]  # default is "./"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
