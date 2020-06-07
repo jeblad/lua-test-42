@@ -1,8 +1,3 @@
-.. Test LvL 42 documentation master file, created by
-   sphinx-quickstart on Sat Jun  6 00:59:28 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Test LvL 42's documentation!
 =======================================
 
@@ -13,8 +8,21 @@ Welcome to Test LvL 42's documentation!
    markdown.md
    topics/test-wiki.md
 
-.. lua:autoclass:: Main
+.. lua:module:: main
 
+.. lua:function:: join(p1, p2)
+
+   Return the path resulting from combining the individual paths.
+
+   :param p1: First path
+   :type p1: str
+   :param p2: An other path
+   :type p2: str
+   :return: The combined path
+   :rtype: str
+
+
+Lets just add some text, and a link.
 
 Indices and tables
 ==================
