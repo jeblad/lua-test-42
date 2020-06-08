@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('..'))
 
 
 # -- Project information -----------------------------------------------------
@@ -33,10 +33,16 @@ master_doc = 'index'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+	'sphinx.ext.intersphinx',
 	'recommonmark',
 	'sphinxcontrib.luadomain',
 	'sphinx_lua'
 ]
+
+# intersphinx mapping
+#intersphinx_mapping = {
+#	'mw': ('https://www.mediawiki/wiki/', None),
+#}
 
 # a list of lua source root
 # the local make is run from docs dir where Makefile resides,
