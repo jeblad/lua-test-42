@@ -3,6 +3,8 @@
 [![Stability Experimental](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)](https://www.mediawiki.org/wiki/Template:Extension#status)
 [![Documentation Status](https://readthedocs.org/projects/test-lvl-42/badge/?style=for-the-badge&version=latest)](https://test-lvl-42.readthedocs.io/en/latest/?badge=latest)
 
+## Usage
+
 1. Clone repository
 
 	```bash
@@ -80,3 +82,13 @@
 	```bash
 	sphinx-build -t html source build
 	```
+
+## Notes
+
+- Tutorials
+- Topical guides
+- Reference material
+
+- [Jacop Kaplan-Moss: What to write](https://jacobian.org/writing/what-to-write/)
+- [WriteTheDocs: Beginners guide to docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+- [Steve Losh: Teach don't tell](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
