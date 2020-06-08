@@ -3,10 +3,14 @@ Welcome to Test LvL 42's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    markdown.md
    topics/test-wiki.md
+
+.. contents::
+
+Subtitle
+--------
 
 .. lua:module:: main
 
@@ -21,12 +25,29 @@ Welcome to Test LvL 42's documentation!
    :return: The combined path
    :rtype: str
 
+.. warning::
 
-Lets just add some text, and a link.
+   Opppsie wooppsie…
+
+.. code-block:: lua
+   :linenos:
+
+   local h = {}
+   return h
+
+.. note::
+
+   Lets just add some text, and a link to .
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+.. seealso::
+
+   `Expect project page <https://jeblad.github.io/projects/expect.html>`_
+        Previous documentation and API reference.
