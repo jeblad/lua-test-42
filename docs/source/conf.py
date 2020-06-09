@@ -39,6 +39,9 @@ extensions = [
 	'sphinx_lua'
 ]
 
+# source_suffix = ['.rst', '.md']
+# source_parsers = {".md": CommonMarkParser}
+
 # intersphinx mapping
 #intersphinx_mapping = {
 #	'mw': ('https://www.mediawiki/wiki/', None),
