@@ -1,11 +1,31 @@
 Welcome to Test LvL 42's documentation!
 =======================================
 
+
 .. toctree::
+   :caption: Tutorials
+   :hidden:
    :maxdepth: 2
 
    markdown.md
+   readme.md
+
+
+.. toctree::
+   :caption: Guides
+   :hidden:
+   :maxdepth: 2
+
    topics/test-wiki.md
+
+
+.. toctree::
+   :caption: References
+   :hidden:
+   :maxdepth: 2
+
+   mkdown.md
+
 
 .. contents::
 
