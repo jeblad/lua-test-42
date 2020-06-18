@@ -15,6 +15,8 @@ lua-test-42
 .. role:: python(code)
    :language: python
 
+This is a small project to test documentation of Lua scripts, integration with `RTFM <https://lua-test-42.readthedocs.io>`_, and integration with `the shitty blog <https://jeblad.github.io>`_.
+
 Usage
 -----
 
