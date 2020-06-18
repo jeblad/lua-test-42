@@ -1,7 +1,6 @@
 Welcome to Test LvL 42's documentation!
 =======================================
 
-.. include:: ../README.rst
 
 .. toctree::
    :caption: Tutorials
