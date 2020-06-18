@@ -8,8 +8,7 @@ Welcome to Test LvL 42's documentation!
    :maxdepth: 2
 
    markdown.md
-   readme.md
-   README.rst
+   readme.rst
 
 
 .. toctree::
