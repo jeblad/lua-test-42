@@ -1,6 +1,7 @@
 Welcome to Test LvL 42's documentation!
 =======================================
 
+.. include:: ../README.rst
 
 .. toctree::
    :caption: Tutorials
@@ -9,6 +10,7 @@ Welcome to Test LvL 42's documentation!
 
    markdown.md
    readme.md
+   README.rst
 
 
 .. toctree::
