@@ -2,7 +2,7 @@
 
 This project use stability levels `experimental`, `unstable`, `stable`, and `deprecated`.
 
-For current stability see the `README <./README.rst>`_ file.
+For current stability see the [README.rst](./README.rst) file.
 
 ## Badges
 
