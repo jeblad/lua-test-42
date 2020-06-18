@@ -15,7 +15,7 @@ This API is so immature that offering any kind of API stability guarantees would
 __Markdown__
 
 ```markdown
-[![Stability Experimental](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#experimental)
+[![Stability Experimental](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#experimental)
 ```
 
 __ReStructuredText__
@@ -24,7 +24,7 @@ __ReStructuredText__
 |Stability Experimental|
 
 .. |Stability Experimental| image:: https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge
-   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#experimental
+   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#experimental
    
 ```
 
@@ -37,7 +37,7 @@ This API is not stable yet, but backwards-compatibility will be maintained if po
 __Markdown__
 
 ```markdown
-[![Stability Unstable](https://img.shields.io/badge/stability-unstable-yellow.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#unstable)
+[![Stability Unstable](https://img.shields.io/badge/stability-unstable-yellow.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#unstable)
 ```
 
 __ReStructuredText__
@@ -46,7 +46,7 @@ __ReStructuredText__
 |Stability Unstable|
 
 .. |Stability Unstable| image:: https://img.shields.io/badge/stability-unstable-yellow.svg?style=for-the-badge
-   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#unstable
+   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#unstable
    
 ```
 
@@ -59,7 +59,7 @@ This API is stable and backwards-compatibility is guaranteed.
 __Markdown__
 
 ```markdown
-[![Stability Stable](https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#stable)
+[![Stability Stable](https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge)](https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#stable)
 ```
 
 __ReStructuredText__
@@ -68,7 +68,7 @@ __ReStructuredText__
 |Stability Stable|
 
 .. |Stability Stable| image:: https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge
-   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY#stable
+   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#stable
    
 ```
 
@@ -80,7 +80,7 @@ This API is not maintained and should not be used anymore.
 __Markdown__
 
 ```markdown
-[![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg?style=for-the-badge)](https://github.com/emersion/stability-badges#deprecated)
+[![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg?style=for-the-badge)]https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md##deprecated)
 ```
 
 __ReStructuredText__
