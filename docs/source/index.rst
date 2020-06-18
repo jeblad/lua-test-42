@@ -7,7 +7,6 @@ Welcome to Test LvL 42's documentation!
    :hidden:
    :maxdepth: 2
 
-   readme.rst
    markdown.md
 
 
@@ -16,6 +15,8 @@ Welcome to Test LvL 42's documentation!
    :hidden:
    :maxdepth: 2
 
+   readme.rst
+   terms.rst
    topics/test-wiki.md
 
 
