@@ -4,7 +4,7 @@ lua-test-42
 |Stability Experimental| |Documentation Status|
 
 .. |Stability Experimental| image:: https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge
-   :target: https://github.com/jeblad/test-lvl-42/blob/master/LICENSE
+   :target: https://github.com/jeblad/test-lvl-42/blob/master/STABILITY.md#experimental
    
 .. |Documentation Status| image:: https://readthedocs.org/projects/test-lvl-42/badge/?style=for-the-badge&version=latest
    :target: https://test-lvl-42.readthedocs.io/en/latest/?badge=latest
@@ -15,7 +15,7 @@ lua-test-42
 .. role:: python(code)
    :language: python
 
-This is a small project to test documentation of Lua scripts, integration with `the shitty blog <https://jeblad.github.io>`_, and integration with `RTFM <https://lua-test-42.readthedocs.io>`_.
+This is a small project to test documentation of Lua scripts, integration with `the shitty blog <https://jeblad.github.io>`_ and `RTFM <https://lua-test-42.readthedocs.io>`_.
 
 Usage
 -----
